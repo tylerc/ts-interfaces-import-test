@@ -1,0 +1,29 @@
+{
+  "name": "ts-interfaces-import-test",
+  "version": "1.0.0",
+  "description": "This is a test repo that imports a TypeScript interface from NPM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerc/ts-interfaces-import-test.git"
+  },
+  "keywords": [
+    "ts",
+    "typescript",
+    "interfaces",
+    "interface",
+    "import"
+  ],
+  "author": "Tyler Church",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tylerc/ts-interfaces-import-test/issues"
+  },
+  "homepage": "https://github.com/tylerc/ts-interfaces-import-test#readme",
+  "dependencies": {
+    "ts-interfaces-publish-test": "^1.0.0"
+  }
+}
